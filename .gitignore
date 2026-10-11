@@ -218,3 +218,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Microsoft Visual Studio
+.vs/
+*.user
+*.suo
+
+# Medical imaging datasets
+data/raw/
+data/processed/
+
+# DICOM / medical image files
+*.dcm
+*.dicom
+
+# Optional volumetric image formats
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+*.nrrd
+
+# Generated experiment outputs
+results/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
