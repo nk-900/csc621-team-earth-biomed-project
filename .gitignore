@@ -225,8 +225,12 @@ __marimo__/
 *.suo
 
 # Medical imaging datasets
+CovidCTAnalysis/data/raw/
 data/raw/
+CovidCTAnalysis/
 data/processed/
+CovidCTAnalysis/data/annotations/
+data/annotations/
 
 # DICOM / medical image files
 *.dcm
